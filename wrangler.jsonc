@@ -1,8 +1,2 @@
-{
-  "name": "pbm5",
-  "compatibility_date": "2026-01-01",
-  "assets": {
-    "directory": "./dist",
-    "not_found_handling": "single-page-application"
-  }
-}
+// wrangler.jsonc
+"name": "pbm5",
